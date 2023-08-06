@@ -1,7 +1,7 @@
 * [主页](README.md)
 
-* [Alist网盘](http://alist.dogtang.cloud/)
+* [狗糖宝库](http://alist.dogtang.cloud/)
 
 * 文章
-  * [Alist网盘](http://alist.dogtang.cloud/)
+  * [狗糖宝库](http://alist.dogtang.cloud/)
 
