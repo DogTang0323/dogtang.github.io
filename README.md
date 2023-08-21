@@ -6,12 +6,12 @@
 - 电话：13514628862
 - QQ：1661494059
 - 微信：RMGNAT
-- BIlibili UID：428225475
+- BIlibili UID：[428225475](https://space.bilibili.com/428225475?spm_id_from=333.337.0.0)
 - 邮箱📮：tang1142@foxmail.com
 - 爱好：打电动，折腾，手工DIY，业余无线电，自由摄影，开车车。
 - 性格：拧巴 易EMO
 - 星座：狮子座
-- [MBTI人格](https://www.16personalities.com/ch/)：INFP-T
+- [MBTI人格](https://www.16personalities.com/ch/)：[INFP-T](https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC)
 - 梦想：车车！相机！猫猫！狗狗！独居！大森林！极客！
 - 计划：健身！增重！
 
