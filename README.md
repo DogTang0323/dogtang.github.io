@@ -27,5 +27,8 @@
 > * [手工-桃木簪](https://www.bilibili.com/video/BV1zW4y1H7dd/)
 > * [手工-戳戳乐](https://www.bilibili.com/video/BV1j7411Q7cr/)
 
+<iframe src="//player.bilibili.com/player.html?aid=943962169&bvid=BV1zW4y1H7dd&cid=856323053&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=99879257&bvid=BV1j7411Q7cr&cid=872856068&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 -----
 
