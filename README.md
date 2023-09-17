@@ -1,11 +1,11 @@
-## 这里是DogTang的博客
+## 这里是DogTang的主页
 ---
 ### 👋 DogTang | 狗糖 👋
 
 #### 个人信息
-- 电话：13514628862
-- QQ：1661494059
-- 微信：RMGNAT
+- 电话：`13514628862`
+- QQ：`1661494059`
+- 微信：`RMGNAT`` `_Dogtang_`
 - BIlibili UID：[428225475](https://space.bilibili.com/428225475?spm_id_from=333.337.0.0)
 - 邮箱📮：tang1142@foxmail.com
 - 爱好：打电动，折腾，手工DIY，业余无线电，自由摄影，开车车。
