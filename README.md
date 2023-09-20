@@ -22,6 +22,7 @@
 - 情感咨询 (bu-
 - 陪玩 (但是陪我玩~~~
 - 代肝 (自己的号都懒得打啊
+- 婚礼影片摄制 (真的剪过
 
 
 #### 作品
@@ -29,8 +30,6 @@
 > * [手工-桃木簪](https://www.bilibili.com/video/BV1zW4y1H7dd/)
 > * [手工-戳戳乐](https://www.bilibili.com/video/BV1j7411Q7cr/)
 
-<iframe src="//player.bilibili.com/player.html?aid=943962169&bvid=BV1zW4y1H7dd&cid=856323053&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<iframe src="//player.bilibili.com/player.html?aid=99879257&bvid=BV1j7411Q7cr&cid=872856068&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 -----
 
