@@ -1,9 +1,11 @@
-* [主页]([README.md](http://home.dogtang.cloud/))
+* [主页](http://home.dogtang.cloud/)
 
 * [狗糖宝库](http://alist.dogtang.cloud/)
 
 * [语音频道](https://kook.top/wN5sit)
 
+* [网站导航](doc-导航页/README.md) 
+
 * 文章
-  * [如何选购电脑](如何选购电脑/README.md)
+  * [如何选购电脑](doc-如何选购电脑/README.md)
 
