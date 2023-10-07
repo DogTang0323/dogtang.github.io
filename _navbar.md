@@ -8,4 +8,5 @@
 
 * 文章
   * [如何选购电脑](doc-如何选购电脑/README.md)
+  * [Alist挂载](doc-Alist挂载/README.md)
 
