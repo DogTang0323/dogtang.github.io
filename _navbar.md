@@ -1,7 +1,7 @@
 * [首页](http://docs.dogtang.cloud/)
 
 * 其它网站
-  * [个人主页](http://home.dogtang.cloud/)
+  * [个人主页](https://dogtang.cloud/)
   * [狗糖宝库](http://alist.dogtang.cloud/)
   * [语音频道](https://kook.top/wN5sit)
 
