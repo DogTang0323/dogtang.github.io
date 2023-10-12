@@ -10,5 +10,6 @@
 * 文章
   * [如何选购电脑](doc-如何选购电脑/README.md)
   * [Alist挂载](doc-Alist挂载/README.md)
+  * [使用向日葵](doc-XRK/README.md)
 
 * [捐助](doc-QR/README.md) 
